@@ -1,0 +1,8 @@
+.capsule{
+  width: 200px;
+  height: 80px;
+  margin: 2em auto;
+  border-radius: 500px;
+  background-color:white;
+  padding-left: 50px;
+}

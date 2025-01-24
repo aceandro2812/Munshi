@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --body-text-large-bold: Gilroy;
+    --font-plus-jakarta-display: "Plus Jakarta Display";
+  
+    /* font sizes */
+    --body-text-large-bold-size: 18px;
+    --body-text-extra-small-medium-size: 12px;
+    --body-text-extra-large-bold-size: 20px;
+    --body-text-medium-medium-size: 16px;
+    --body-text-small-medium-size: 14px;
+    --display-text-extra-small-bold-size: 24px;
+    --font-size-5xs: 8px;
+    --font-size-8xs-6: 4.6px;
+    --display-text-small-bold-size: 34px;
+  
+    /* Colors */
+    --colors-green-500-primary: #00dea3;
+    --colors-primary-white: #fff;
+    --colors-grey-100: #fafcfe;
+    --colors-dark-grey-800: #232927;
+    --colors-grey-900: #231f20;
+    --stroke-2nd: #1a1e29;
+    --colors-dark-grey-900: #00140e;
+    --color-gray-100: rgba(0, 0, 0, 0);
+    --colors-dark-grey-600: #00523c;
+    --colors-dark-grey-400: #333;
+    --colors-green-900: #00261c;
+    --colors-grey-700: #707eae;
+    --dark-2: #6f6c99;
+    --color-blueviolet-100: #783efd;
+    --color-lightsalmon: #fe8f66;
+    --color-goldenrod: #ffcc40;
+    --color-slateblue: #5a55d2;
+    --colors-grey-600: #aeb6cf;
+    --colors-green-400: #00eaac;
+    --colors-pink: #f23985;
+  
+    /* Gaps */
+    --gap-5xs: 8px;
+    --gap-9xs: 4px;
+    --gap-base: 16px;
+    --gap-56xl: 75px;
+    --gap-4xs: 9px;
+    --gap-xs: 12px;
+  
+    /* Paddings */
+    --padding-5xl: 24px;
+    --padding-base: 16px;
+    --padding-5xs: 8px;
+    --padding-xs: 12px;
+  
+    /* border radiuses */
+    --br-base: 16px;
+    --br-xs: 12px;
+    --br-5xs: 8px;
+    --br-mini-5: 14.5px;
+    --br-smi: 13px;
+  }
+  
